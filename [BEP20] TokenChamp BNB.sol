@@ -1,5 +1,5 @@
 // Contract Address : 0x3273b44e9c4f409b4618a183cefd3109f9757e14
-// Etherscan: https://testnet.bscscan.com/token/0x3273b44e9c4f409b4618a183cefd3109f9757e14
+// BSCscan: https://testnet.bscscan.com/token/0x3273b44e9c4f409b4618a183cefd3109f9757e14
 // Metaschool quest link: https://metaschool.so/courses/how-to-create-your-own-token-on-binance
 // Programmed by Krypto-Kiddo 
 
